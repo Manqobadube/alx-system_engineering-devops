@@ -8,3 +8,4 @@ directory in the file
 change file from one directoty to another
 delete file
 deleting directory
+change directories backwards
