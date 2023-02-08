@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display current directory contents, including hidden files
 Display current directory contents long format with numbers
 directory in the file
+change file from one directoty to another
